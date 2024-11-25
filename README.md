@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m @YourUsername
+# 👋 Hi there! I’m JehnSu
 
 - 🤖 **I’m passionate about robotics, embedded systems, and control theory.**  
   I enjoy designing and implementing innovative solutions for real-world problems, especially in autonomous systems and intelligent robotics.
@@ -14,7 +14,6 @@
 - 💞️ **Looking to collaborate on:**  
   - Open-source robotics projects.  
   - Developing educational resources for embedded systems and control theory.  
-  - Research initiatives in autonomous vehicle systems.
 
 - 📫 **How to reach me:**  
   - blog ：https://wsyhkkl00.github.io/
