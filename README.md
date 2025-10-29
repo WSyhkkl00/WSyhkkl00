@@ -1,7 +1,5 @@
-# 👋 Hi there! 
+# 👋 
 
-- 🤖 **I’m passionate about robotics, embedded systems, and control theory.**  
-  I enjoy designing and implementing innovative solutions for real-world problems, especially in autonomous systems and intelligent robotics.
 - 💻 **Currently learning:**  
   - Designing embedded systems for robotics.  
   - Developing algorithms for robot control.  
