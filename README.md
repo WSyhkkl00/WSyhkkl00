@@ -1,7 +1,10 @@
 # 👋
 
-Android Framework | 操作系统 | 计算机系统原理
+Hi, I'm a beginner Android developer, currently learning Framework.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wsyhkkl00&layout=compact&theme=default)
+- 🔧 Exploring: Android Framework (AMS / WMS / Input), Binder, System Services
+- 📚 Studying: Operating Systems, Computer System Principles, Linux basics
 
-📝 [博客](https://wsyhkkl00.github.io/)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wsyhkkl00&layout=compact)
+
+📝 [Blog](https://wsyhkkl00.github.io/)
